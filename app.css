@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(187, 187, 146);
+  font-family: Nunite, sans-serif;
+}
+
+#mainNavbar .navbar-brand {
+  font-family: Nunite, sans-serif;
+  color: rgb(241, 225, 225);
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#headingGroup h2 {
+  font-weight: 100;
+  font-size: 4rem;
+  color: rgb(0, 59, 0);
+}
+
+@media (max-width: 1200px) {
+  #headingGroup h2 {
+    font-weight: 100;
+    font-size: 3rem;
+  }
+}
+h3 {
+  font-size: 1.3rem;
+  color: darkolivegreen;
+  line-height: 2;
+}
+.content {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.blurb p {
+  color: rgb(0, 59, 0);
+}
+.navbar.scrolled {
+  background-color: darkgrey;
+  transitiion: background 500m;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.panel {
+  backgroundcolor: rgb(195, 195, 177);
+}
