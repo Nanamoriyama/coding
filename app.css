@@ -36,7 +36,7 @@ h3 {
 }
 .navbar.scrolled {
   background-color: darkgrey;
-  transitiion: background 500m;
+  transitiion: background 500ms;
 }
 table {
   border-collapse: collapse;
